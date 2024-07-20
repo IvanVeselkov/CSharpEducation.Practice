@@ -1,0 +1,16 @@
+C:\Users\Veselkov\source\repos\CSharpEducation.Practice\Task.CSharpBase\bin\Debug\net5.0\Task.CSharpBase.exe
+C:\Users\Veselkov\source\repos\CSharpEducation.Practice\Task.CSharpBase\bin\Debug\net5.0\Task.CSharpBase.deps.json
+C:\Users\Veselkov\source\repos\CSharpEducation.Practice\Task.CSharpBase\bin\Debug\net5.0\Task.CSharpBase.runtimeconfig.json
+C:\Users\Veselkov\source\repos\CSharpEducation.Practice\Task.CSharpBase\bin\Debug\net5.0\Task.CSharpBase.runtimeconfig.dev.json
+C:\Users\Veselkov\source\repos\CSharpEducation.Practice\Task.CSharpBase\bin\Debug\net5.0\Task.CSharpBase.dll
+C:\Users\Veselkov\source\repos\CSharpEducation.Practice\Task.CSharpBase\bin\Debug\net5.0\ref\Task.CSharpBase.dll
+C:\Users\Veselkov\source\repos\CSharpEducation.Practice\Task.CSharpBase\bin\Debug\net5.0\Task.CSharpBase.pdb
+C:\Users\Veselkov\source\repos\CSharpEducation.Practice\Task.CSharpBase\obj\Debug\net5.0\Task.CSharpBase.csproj.AssemblyReference.cache
+C:\Users\Veselkov\source\repos\CSharpEducation.Practice\Task.CSharpBase\obj\Debug\net5.0\Task.CSharpBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veselkov\source\repos\CSharpEducation.Practice\Task.CSharpBase\obj\Debug\net5.0\Task.CSharpBase.AssemblyInfoInputs.cache
+C:\Users\Veselkov\source\repos\CSharpEducation.Practice\Task.CSharpBase\obj\Debug\net5.0\Task.CSharpBase.AssemblyInfo.cs
+C:\Users\Veselkov\source\repos\CSharpEducation.Practice\Task.CSharpBase\obj\Debug\net5.0\Task.CSharpBase.csproj.CoreCompileInputs.cache
+C:\Users\Veselkov\source\repos\CSharpEducation.Practice\Task.CSharpBase\obj\Debug\net5.0\Task.CSharpBase.dll
+C:\Users\Veselkov\source\repos\CSharpEducation.Practice\Task.CSharpBase\obj\Debug\net5.0\ref\Task.CSharpBase.dll
+C:\Users\Veselkov\source\repos\CSharpEducation.Practice\Task.CSharpBase\obj\Debug\net5.0\Task.CSharpBase.pdb
+C:\Users\Veselkov\source\repos\CSharpEducation.Practice\Task.CSharpBase\obj\Debug\net5.0\Task.CSharpBase.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\ProgrammingShit\Repository\CSharpEducation.Practice\Task1B\bin\CheckIn\Task1B.exe
+D:\ProgrammingShit\Repository\CSharpEducation.Practice\Task1B\bin\CheckIn\Task1B.deps.json
+D:\ProgrammingShit\Repository\CSharpEducation.Practice\Task1B\bin\CheckIn\Task1B.runtimeconfig.json
+D:\ProgrammingShit\Repository\CSharpEducation.Practice\Task1B\bin\CheckIn\Task1B.runtimeconfig.dev.json
+D:\ProgrammingShit\Repository\CSharpEducation.Practice\Task1B\bin\CheckIn\Task1B.dll
+D:\ProgrammingShit\Repository\CSharpEducation.Practice\Task1B\bin\CheckIn\ref\Task1B.dll
+D:\ProgrammingShit\Repository\CSharpEducation.Practice\Task1B\bin\CheckIn\Task1B.pdb
+D:\ProgrammingShit\Repository\CSharpEducation.Practice\Task1B\obj\CheckIn\Task1B.csproj.AssemblyReference.cache
+D:\ProgrammingShit\Repository\CSharpEducation.Practice\Task1B\obj\CheckIn\Task1B.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingShit\Repository\CSharpEducation.Practice\Task1B\obj\CheckIn\Task1B.AssemblyInfoInputs.cache
+D:\ProgrammingShit\Repository\CSharpEducation.Practice\Task1B\obj\CheckIn\Task1B.AssemblyInfo.cs
+D:\ProgrammingShit\Repository\CSharpEducation.Practice\Task1B\obj\CheckIn\Task1B.csproj.CoreCompileInputs.cache
+D:\ProgrammingShit\Repository\CSharpEducation.Practice\Task1B\obj\CheckIn\Task1B.dll
+D:\ProgrammingShit\Repository\CSharpEducation.Practice\Task1B\obj\CheckIn\ref\Task1B.dll
+D:\ProgrammingShit\Repository\CSharpEducation.Practice\Task1B\obj\CheckIn\Task1B.pdb
+D:\ProgrammingShit\Repository\CSharpEducation.Practice\Task1B\obj\CheckIn\Task1B.genruntimeconfig.cache

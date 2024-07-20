@@ -1,0 +1,5 @@
+D:\ProgrammingShit\Repository\CSharpEducation.Practice\Task.CSharpBase\obj\CheckIn\net5.0\Task1A.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingShit\Repository\CSharpEducation.Practice\Task.CSharpBase\obj\CheckIn\net5.0\Task1A.AssemblyInfoInputs.cache
+D:\ProgrammingShit\Repository\CSharpEducation.Practice\Task.CSharpBase\obj\CheckIn\net5.0\Task1A.AssemblyInfo.cs
+D:\ProgrammingShit\Repository\CSharpEducation.Practice\Task.CSharpBase\obj\CheckIn\net5.0\Task1A.csproj.CoreCompileInputs.cache
+D:\ProgrammingShit\Repository\CSharpEducation.Practice\Task.CSharpBase\obj\CheckIn\net5.0\Task1A.csproj.AssemblyReference.cache

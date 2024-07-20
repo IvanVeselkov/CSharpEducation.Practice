@@ -1,0 +1,16 @@
+D:\ProgrammingShit\Repository\CSharpEducation.Practice\Task2\bin\Debug\net5.0\Task2.exe
+D:\ProgrammingShit\Repository\CSharpEducation.Practice\Task2\bin\Debug\net5.0\Task2.deps.json
+D:\ProgrammingShit\Repository\CSharpEducation.Practice\Task2\bin\Debug\net5.0\Task2.runtimeconfig.json
+D:\ProgrammingShit\Repository\CSharpEducation.Practice\Task2\bin\Debug\net5.0\Task2.runtimeconfig.dev.json
+D:\ProgrammingShit\Repository\CSharpEducation.Practice\Task2\bin\Debug\net5.0\Task2.dll
+D:\ProgrammingShit\Repository\CSharpEducation.Practice\Task2\bin\Debug\net5.0\ref\Task2.dll
+D:\ProgrammingShit\Repository\CSharpEducation.Practice\Task2\bin\Debug\net5.0\Task2.pdb
+D:\ProgrammingShit\Repository\CSharpEducation.Practice\Task2\obj\Debug\net5.0\Task2.csproj.AssemblyReference.cache
+D:\ProgrammingShit\Repository\CSharpEducation.Practice\Task2\obj\Debug\net5.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingShit\Repository\CSharpEducation.Practice\Task2\obj\Debug\net5.0\Task2.AssemblyInfoInputs.cache
+D:\ProgrammingShit\Repository\CSharpEducation.Practice\Task2\obj\Debug\net5.0\Task2.AssemblyInfo.cs
+D:\ProgrammingShit\Repository\CSharpEducation.Practice\Task2\obj\Debug\net5.0\Task2.csproj.CoreCompileInputs.cache
+D:\ProgrammingShit\Repository\CSharpEducation.Practice\Task2\obj\Debug\net5.0\Task2.dll
+D:\ProgrammingShit\Repository\CSharpEducation.Practice\Task2\obj\Debug\net5.0\ref\Task2.dll
+D:\ProgrammingShit\Repository\CSharpEducation.Practice\Task2\obj\Debug\net5.0\Task2.pdb
+D:\ProgrammingShit\Repository\CSharpEducation.Practice\Task2\obj\Debug\net5.0\Task2.genruntimeconfig.cache
