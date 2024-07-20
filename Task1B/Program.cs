@@ -6,7 +6,7 @@ namespace Task1B
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World! Zopa2");
         }
     }
 }

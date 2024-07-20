@@ -5,15 +5,15 @@ namespace Task2
     class Program
     {
         #region 1
-        ///// <summary>
-        ///// 1
-        ///// </summary>
-        //private int ageUser;
-        //private string nameUser;
-        //private string nameCompany;
-        //private bool logicUser;
-        //private float weightUser;
-        ////
+        /// <summary>
+        /// 1
+        /// </summary>
+        private int ageUser;
+        private string nameUser;
+        private string nameCompany;
+        private bool logicUser;
+        private float weightUser;
+        //
         #endregion
         static void Main(string[] args)
         {
@@ -56,10 +56,10 @@ namespace Task2
             //Console.WriteLine(string.Format("Условие первое: Известны два катета. Необходимо найти гипотенузу. \n Катет A:{0} \n Катет B:{1} \n Гипотенуза С = {2}", _1CatetA, _1CatetB, _1Gipo));
 
             //Условие второе: Известен катет и гипотенуза
-            double _2CatetA = 3;
-            double _2Gipo = 5;
-            double _2CatetB = Math.Sqrt(Math.Pow(_2Gipo, 2) - Math.Pow(_2CatetA, 2)); ;
-            Console.WriteLine(string.Format("Условие второе: Известен катет и гипотенуза. Необходимо найти второй катет. \n Катет A:{0} \n Гипотенуза С:{1} \n Катет B = {2}", _2CatetA, _2Gipo, _2CatetB));
+            //double _2CatetA = 3;
+            //double _2Gipo = 5;
+            //double _2CatetB = Math.Sqrt(Math.Pow(_2Gipo, 2) - Math.Pow(_2CatetA, 2)); ;
+            //Console.WriteLine(string.Format("Условие второе: Известен катет и гипотенуза. Необходимо найти второй катет. \n Катет A:{0} \n Гипотенуза С:{1} \n Катет B = {2}", _2CatetA, _2Gipo, _2CatetB));
             #endregion
         }
         //
