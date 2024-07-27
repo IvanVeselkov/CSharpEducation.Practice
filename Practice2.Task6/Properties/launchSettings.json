@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Practice2.Task6": {
+      "commandName": "Project",
+      "commandLineArgs": "HelloWorld l"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

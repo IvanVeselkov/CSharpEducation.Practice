@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProgrammingShit\\Repository\\CSharpEducation.Practice\\Task.CSharpBase\\Task1A.csproj",
-      "projectName": "Task1A",
-      "projectPath": "D:\\ProgrammingShit\\Repository\\CSharpEducation.Practice\\Task.CSharpBase\\Task1A.csproj",
+      "projectUniqueName": "D:\\ProgrammingShit\\Repository\\CSharpEducation.Practice\\Task.CSharpBase\\Practice1.Task1A.csproj",
+      "projectName": "Practice1.Task1A",
+      "projectPath": "D:\\ProgrammingShit\\Repository\\CSharpEducation.Practice\\Task.CSharpBase\\Practice1.Task1A.csproj",
       "packagesPath": "C:\\Users\\Veselkov\\.nuget\\packages\\",
       "outputPath": "D:\\ProgrammingShit\\Repository\\CSharpEducation.Practice\\Task.CSharpBase\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Practice2.Task15": {
+      "commandName": "Project",
+      "commandLineArgs": "5"
+    }
+  }
+}
