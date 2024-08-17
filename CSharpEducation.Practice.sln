@@ -89,13 +89,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice3.Task11", "Practic
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Practice4", "Practice4", "{E11F9B9F-C374-4A2A-A36D-0E98B9FB8F54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice4.Task1.MathHelper", "Task1.MathHelper\Practice4.Task1.MathHelper.csproj", "{DFD80BAE-11D2-4C90-B588-83A7A0175295}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice4.Task1.MathHelper", "Task1.MathHelper\Practice4.Task1.MathHelper.csproj", "{DFD80BAE-11D2-4C90-B588-83A7A0175295}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice4.Task2.MathHelperUser", "Task2.MathHelperUser\Practice4.Task2.MathHelperUser.csproj", "{0490D541-921D-40FA-A73C-7008836C2267}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice4.Task2.MathHelperUser", "Task2.MathHelperUser\Practice4.Task2.MathHelperUser.csproj", "{0490D541-921D-40FA-A73C-7008836C2267}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice4.Task3.1.Person", "Practice4.Task3.1.Person\Practice4.Task3.1.Person.csproj", "{38AD6D9A-9F4B-4D79-971D-0924EFC86E54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice4.Task3.1.Person", "Practice4.Task3.1.Person\Practice4.Task3.1.Person.csproj", "{38AD6D9A-9F4B-4D79-971D-0924EFC86E54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice4.Task3.2.PersonUse", "Practice4.Task3.2.PersonUse\Practice4.Task3.2.PersonUse.csproj", "{F2B484D9-FB04-4D6E-9FC0-B3D162D038EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice4.Task3.2.PersonUse", "Practice4.Task3.2.PersonUse\Practice4.Task3.2.PersonUse.csproj", "{F2B484D9-FB04-4D6E-9FC0-B3D162D038EC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Practice5", "Practice5", "{33791AC1-E64D-4050-8A41-D29DF2D0A30B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice5.Task1", "Practice5.Task1\Practice5.Task1.csproj", "{1600A655-BCDF-49BE-8A8E-E76F70077FA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice5.Task2.Logger", "Practice5.Task2.Logger\Practice5.Task2.Logger.csproj", "{44243309-C400-4D47-95A6-1562079B7ADC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice5.Task3", "Practice5.Task3\Practice5.Task3.csproj", "{48102B62-756D-4F88-8E6A-CFF8C471476A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -362,6 +370,24 @@ Global
 		{F2B484D9-FB04-4D6E-9FC0-B3D162D038EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2B484D9-FB04-4D6E-9FC0-B3D162D038EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2B484D9-FB04-4D6E-9FC0-B3D162D038EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1600A655-BCDF-49BE-8A8E-E76F70077FA8}.CheckIn|Any CPU.ActiveCfg = Debug|Any CPU
+		{1600A655-BCDF-49BE-8A8E-E76F70077FA8}.CheckIn|Any CPU.Build.0 = Debug|Any CPU
+		{1600A655-BCDF-49BE-8A8E-E76F70077FA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1600A655-BCDF-49BE-8A8E-E76F70077FA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1600A655-BCDF-49BE-8A8E-E76F70077FA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1600A655-BCDF-49BE-8A8E-E76F70077FA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44243309-C400-4D47-95A6-1562079B7ADC}.CheckIn|Any CPU.ActiveCfg = Debug|Any CPU
+		{44243309-C400-4D47-95A6-1562079B7ADC}.CheckIn|Any CPU.Build.0 = Debug|Any CPU
+		{44243309-C400-4D47-95A6-1562079B7ADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44243309-C400-4D47-95A6-1562079B7ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44243309-C400-4D47-95A6-1562079B7ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44243309-C400-4D47-95A6-1562079B7ADC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48102B62-756D-4F88-8E6A-CFF8C471476A}.CheckIn|Any CPU.ActiveCfg = Debug|Any CPU
+		{48102B62-756D-4F88-8E6A-CFF8C471476A}.CheckIn|Any CPU.Build.0 = Debug|Any CPU
+		{48102B62-756D-4F88-8E6A-CFF8C471476A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48102B62-756D-4F88-8E6A-CFF8C471476A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48102B62-756D-4F88-8E6A-CFF8C471476A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48102B62-756D-4F88-8E6A-CFF8C471476A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -410,6 +436,9 @@ Global
 		{0490D541-921D-40FA-A73C-7008836C2267} = {E11F9B9F-C374-4A2A-A36D-0E98B9FB8F54}
 		{38AD6D9A-9F4B-4D79-971D-0924EFC86E54} = {E11F9B9F-C374-4A2A-A36D-0E98B9FB8F54}
 		{F2B484D9-FB04-4D6E-9FC0-B3D162D038EC} = {E11F9B9F-C374-4A2A-A36D-0E98B9FB8F54}
+		{1600A655-BCDF-49BE-8A8E-E76F70077FA8} = {33791AC1-E64D-4050-8A41-D29DF2D0A30B}
+		{44243309-C400-4D47-95A6-1562079B7ADC} = {33791AC1-E64D-4050-8A41-D29DF2D0A30B}
+		{48102B62-756D-4F88-8E6A-CFF8C471476A} = {33791AC1-E64D-4050-8A41-D29DF2D0A30B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9C66A829-05B5-4D8E-A92B-34E25B715B29}
